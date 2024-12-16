@@ -1,1 +1,1 @@
-# Frequenlty Asked Java Questions
+# Frequently Asked Java Questions
